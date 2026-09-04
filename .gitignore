@@ -1,0 +1,14 @@
+__pycache__/
+*.pem
+*.license
+*.exe
+*.sha256
+授权管理工具/
+.pytest_cache/
+.venv/
+build/
+dist/
+tmp/
+output/
+*.log
+新建 文本文档.txt
